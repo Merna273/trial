@@ -29,6 +29,6 @@ int main()
     cout << "your current allowed number of soda cans are " << soda_can_num1 << endl;
     cout << "your new allowed number of soda cans are " << soda_can_num2 << endl;
     
-    
+    cout << "hello world" << endl;
     return 0;
 }
