@@ -30,6 +30,6 @@ int main()
     cout << "your new allowed number of soda cans are " << soda_can_num2 << endl;
     
     cout << "hello world" << endl;
-    cout << hi << endl;
+    cout << "hi" << endl;
     return 0;
 }
